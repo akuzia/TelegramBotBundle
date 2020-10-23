@@ -1,6 +1,12 @@
 CHANGELOG
 =========
 
+4.2.0 (XXXX-XX-XX)
+------------------
+
+* Add callback query support for `AbstractCommand`
+* Add `AbstractCommand::getCommandParameters()` method to get command parameters
+
 4.1.0 (2020-06-20)
 ------------------
 

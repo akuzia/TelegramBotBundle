@@ -24,7 +24,7 @@
         }
     },
     "require": {
-        "php": "^7.2",
+        "php": "^7.2 || ^8.0",
         "ext-curl": "*",
         "ext-json": "*",
         "symfony/console": "^4.4 || ^5.0",
